@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3cac804f-2266-49d8-aa35-fb6694d0b867" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaomap_load/src/main/java/com/example/SchoolBus/KakaomapLoadApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/kakaomap_load/src/main/java/SchoolBus/KakaomapLoadApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaomap_load/src/main/java/com/example/SchoolBus/controller/map_controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/kakaomap_load/src/main/java/SchoolBus/controller/map_controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakaomap_load/src/test/java/com/example/SchoolBus/KakaomapLoadApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/kakaomap_load/src/test/java/SchoolBus/KakaomapLoadApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,15 +23,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/spring/hello-spring/hello-spring&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/spring/hello-spring/hello-spring",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sjsin\OneDrive\문서\GitHub\project-test\kakaomap_load\src\test\java" />
@@ -50,6 +54,7 @@
       <workItem from="1681745643259" duration="41000" />
       <workItem from="1681745711738" duration="231000" />
       <workItem from="1681745967415" duration="127000" />
+      <workItem from="1683532829065" duration="599000" />
     </task>
     <servers />
   </component>
